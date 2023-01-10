@@ -4,9 +4,11 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+(2) You can totally send money to me
+
 ## Purpose
 
-Sample website with plenty of files for demos
+(3) For you to send money to me
 
 ## How to Contribute
 
