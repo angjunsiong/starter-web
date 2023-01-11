@@ -12,4 +12,6 @@ This repository is for showing how Git and GitHub work
 
 ## How to Contribute
 
-You can send money to me
+(4) You can totally send money to me
+
+(5) This is the part where you send me money
