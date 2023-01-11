@@ -17,3 +17,5 @@ This repository is for showing how Git and GitHub work
 (5) This is the part where you send me money
 
 (6) I just added a copyright message
+
+(7) Trying out section 56: automatic merges
