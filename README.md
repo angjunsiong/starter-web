@@ -15,3 +15,5 @@ This repository is for showing how Git and GitHub work
 (4) You can totally send money to me
 
 (5) This is the part where you send me money
+
+(6) I just added a copyright message
