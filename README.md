@@ -20,4 +20,6 @@ This repository is for showing how Git and GitHub work
 
 (7) Trying out section 56: automatic merges
 
-(8) ADding a line for rebasing example -  More changes from myfeature branch too
+(8) ADding a line for rebasing example -  More changes from myfeature branch 
+
+(9) Edits for the stashing example
