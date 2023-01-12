@@ -23,3 +23,5 @@ This repository is for showing how Git and GitHub work
 (8) ADding a line for rebasing example -  More changes from myfeature branch 
 
 (9) Edits for the stashing example
+
+(1o) Stashing example
