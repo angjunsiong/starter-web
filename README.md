@@ -19,3 +19,5 @@ This repository is for showing how Git and GitHub work
 (6) I just added a copyright message
 
 (7) Trying out section 56: automatic merges
+
+(8) ADding a line for rebasing example
